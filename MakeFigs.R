@@ -27,10 +27,10 @@ curve( 1 + (1-x/Nc)/(x/2-1) ,xlab = "", ylab = "",
        from=4, to=Nc, ylim = c(1,2.1), log = "xy", lwd=2, add = TRUE, lty = 3
 )
 legend("topright", 
-       legend = c("Approximation (Eq. 14)", 
-                  paste0("Exact (Eq. 13, N = 200)"),
-                  paste0("Exact (Eq. 13, N = 100)"),
-                  paste0("Exact (Eq. 13, N = 50)")
+       legend = c("Approximation (Eq. 15)", 
+                  paste0("Exact (Eq. 14, N = 200)"),
+                  paste0("Exact (Eq. 14, N = 100)"),
+                  paste0("Exact (Eq. 14, N = 50)")
        ),
        col = c(grey(0.5),"black","black","black"), 
        lty = c(1,1,2,3)
