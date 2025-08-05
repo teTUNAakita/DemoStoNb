@@ -4,8 +4,8 @@ This repository contains the data and code necessary to reproduce the main figur
 
 **Title**: A theoretical framework linking the effective number of breeders to demographic stochasticity in iteroparous species  
 **Author**: Tetsuya Akita  
-**Journal**: *Genetics* (accepted, 2025)  
-**DOI**: (to be added upon publication)
+**Journal**: *Genetics* (2025)  
+**DOI**: https://doi.org/10.1093/genetics/iyaf152
 
 ## Overview
 
